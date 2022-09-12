@@ -1,6 +1,7 @@
 # Finding an Airbnb in New York City
  
 Status: Completed
+Tableau Link: <https://public.tableau.com/views/airbnb_/Storytelling?:language=en-GB&:display_count=n&:origin=viz_share_link>
 
 ## Objective
 #### Scenario: Paola is heading to New York in less than a month and is desperate to find a place to stay during her 5-day trip. 
