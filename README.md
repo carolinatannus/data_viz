@@ -21,7 +21,7 @@ Status: Completed
 >
 > Review Rate 4 or up 
 
-2) She has a budget of US$200 a day for accomodation.
+2) She has a budget of until US$200 a day for accomodation.
 
 3) Paola is a tourist and plans on visiting the main attractions in New York.
 
