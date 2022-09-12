@@ -29,7 +29,7 @@ Status: Completed
 - Tableau
 
 ## Project Description
-For this work I used Airbnb's open data cleaned by Sandeep Majumdar and available at Kaggle. The dataset contains information of almost 70k Airbnb accomodation offers in New York City, specifying cancellation policy, post details, neighborhood, room type, number of reviews, price and others.
+For this work I used Airbnb's open data cleaned by Sandeep Majumdar and available at Kaggle. The dataset contains information of almost 70k Airbnb accomodation offers in New York City, specifying cancellation policy, host details, neighborhood, room type, number of reviews, price and others.
 
 The data can be found here: <https://www.kaggle.com/datasets/sandeepmajumdar/airbnbnyccleaned> | Credits to: Sandeep Majumdar
 
