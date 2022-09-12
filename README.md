@@ -1,6 +1,7 @@
 # Finding an Airbnb in New York City
  
 Status: Completed
+
 Tableau Link: <https://public.tableau.com/views/airbnb_/Storytelling?:language=en-GB&:display_count=n&:origin=viz_share_link>
 
 ## Objective
