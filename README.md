@@ -3,21 +3,37 @@
 Status: Completed
 
 ## Objective
-Scenario: Paola is heading to New York in less than a month and is desperate to find a place to stay during her 5-day trip to the city that never sleeps. Your job is to help her filter through Airbnb to find an accomodation that fits her criteria and, most importantly, her tight budget. Make sure to deliver a visual presentation for her to evaluate her options.
+#### Scenario: Paola is heading to New York in less than a month and is desperate to find a place to stay during her 5-day trip. 
 
-Additional Info: Paola is a tourist and plans on visiting the main attractions in New York.
+#### Goal: Your job is to help her filter through Airbnb to find an accomodation that fits her criteria and budget.
+
+#### Additional Info: 
+1) Paola's list of preferences is the following:
+> Immediate Aproval
+> 
+> Host with Verified Identity
+> 
+> Flexible or Moderate Cancellation Policy
+> 
+> Room Type: Private Room or Entire Apartment
+> 
+> More than 10 Reviews
+>
+> Review Rate 4 or up 
+
+2) Paola is a tourist and plans on visiting the main attractions in New York.
 
 ## Technologies
 - Tableau
 
 ## Project Description
-For this work I used Airbnb's open data cleaned by Sandeep Majumdar and available at Kaggle. The dataset contains information of almost 70k Airbnb's accomodation offers in New York City, specifying Cancellation Policy, Host details, NeighborHood, Room Type, Number of Reviews, Price information and others.
+For this work I used Airbnb's open data cleaned by Sandeep Majumdar and available at Kaggle. The dataset contains information of almost 70k Airbnb accomodation offers in New York City, specifying cancellation policy, post details, neighborhood, room type, number of reviews, price and others.
 
 The data can be found here: <https://www.kaggle.com/datasets/sandeepmajumdar/airbnbnyccleaned> | Credits to: Sandeep Majumdar
 
 The original dataset is available through: <https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata> | Credits to: Arian Azmoudeh
 
-The data source is specified in this link: <http://insideairbnb.com/explore/> | Credits to: Airbnb's Team
+The data source is specified in this link: <http://insideairbnb.com/explore/> | Credits to: Airbnb
 
 ## Steps
 
@@ -29,6 +45,8 @@ The data source is specified in this link: <http://insideairbnb.com/explore/> | 
 
 3) Filtering accomodations through specified criteria
 > Putting rental offers on a map and adding all filters
+> 
+> Selecting main tourist destinations as a location reference
 
 4) Considering external factors
 > Taking into consideration the list of attractions Paola wants to visit and, additionally, the safety issue in New York. 
