@@ -51,7 +51,7 @@ The data source is specified in this link: <http://insideairbnb.com/explore/> | 
 > Selecting main tourist destinations as a location reference
 
 4) Considering external factors
-> Taking into consideration the list of attractions Paola wants to visit and, additionally, the safety issue in New York. 
+> Taking into consideration the safety issue in New York. 
 
 5) Building presentation
 
