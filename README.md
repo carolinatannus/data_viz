@@ -37,7 +37,11 @@ The data source is specified in this link: <http://insideairbnb.com/explore/> | 
 
 ## Conclusion
 
-#### Paola is advised to choose from the suggestions delivered.
+#### Paola is advised to choose from the suggestions listed below:
+
+<div class='tableauPlaceholder' id='viz1662997516031' style='position: relative'><noscript><a href='#'><img alt='Storytelling ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;R4&#47;R4RZCJ75X&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;R4RZCJ75X' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;R4&#47;R4RZCJ75X&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1662997516031');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+The presentation can be found here: <https://public.tableau.com/views/airbnb_/Storytelling?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link>
 
 ## Contact
   
